@@ -24,7 +24,6 @@ public class SoftwareEngineer {
     }
 }
 ```
-
 ### Core Technologies 👑
 - [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 - [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
@@ -42,11 +41,39 @@ public class SoftwareEngineer {
 
 
 ### You can see more about me on those profiles
-- [HackerRank](https://www.hackerrank.com/profile/santieltroll_201)
-- [LeetCode](https://leetcode.com/u/Ssnati/)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 0 20px;">
+        <a href="https://www.hackerrank.com/profile/santieltroll_201">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="46">
+          <br>
+          HackerRank
+        </a>
+      </td>
+      <td align="center" style="padding: 0 20px;">
+        <a href="https://leetcode.com/u/Ssnati/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="46">
+          <br>
+          LeetCode
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-[![Santi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssnati&show_icons=true&theme=tokyonight)](https://github.com/Ssnati/github-readme-stats)
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssnati&layout=compact&size_weight=0&count_weight=1&theme=radical)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ssnati&show_icons=true&theme=tokyonight" alt="Santi's GitHub stats">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssnati&layout=compact&theme=radical" alt="My Top Langs">
+      </td>
+    </tr>
+  </table>
+</div>
 
-Thanks for stopping by—feel free to explore my projects and connect!
+<strong>Thanks for stopping by—feel free to explore my projects and connect! 🌟 </strong>
