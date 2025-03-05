@@ -8,6 +8,6 @@ I'm a passionate developer who loves crafting clean code and tackling challengin
 
 [![Santi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssnati&show_icons=true&theme=tokyonight)](https://github.com/Ssnati/github-readme-stats)
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssnati&layout=compact)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssnati&layout=compact&size_weight=0&count_weight=1&theme=radical)
 
 Thanks for stopping by—feel free to explore my projects and connect!
