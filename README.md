@@ -40,7 +40,7 @@ public class SoftwareEngineer {
 - [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 
-### You can see more about me on those profiles
+## You can see more about me on those profiles
 <div align="center">
   <table>
     <tr>
@@ -76,4 +76,4 @@ public class SoftwareEngineer {
   </table>
 </div>
 
-<strong>Thanks for stopping by—feel free to explore my projects and connect! 🌟 </strong>
+## <strong>Thanks for stopping by—feel free to explore my projects and connect! 🌟 </strong>
