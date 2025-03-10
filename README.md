@@ -70,7 +70,7 @@ public class SoftwareEngineer {
         <img src="https://github-readme-stats.vercel.app/api?username=ssnati&show_icons=true&theme=tokyonight" alt="Santi's GitHub stats">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssnati&layout=compact&theme=radical" alt="My Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssnati&size_weight=0&count_weight=1&layout=compact&theme=radical" alt="My Top Langs">
       </td>
     </tr>
   </table>
