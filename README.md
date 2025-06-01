@@ -11,11 +11,11 @@ public class SoftwareEngineer {
     public SoftwareEngineer() {
         this.name = "Santi";
         this.role = "Software Engineer";
-        this.languagesSpoken = new String[]{"zh_CN", "en_US"};
+        this.languagesSpoken = new String[]{"es_CO", "en_US"};
     }
 
     public void sayHi() {
-        System.out.println("Hi, thanks to read that.");
+        System.out.println("Hi!!!!!!! thanks for read that.");
     }
 
     public static void main(String[] args) {
